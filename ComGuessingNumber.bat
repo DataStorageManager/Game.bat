@@ -31,3 +31,4 @@ if %tries%==0 (
 :end_game
 set /p play_again=Do you want to play again? Press y for Yes or any other key to exit.
 if "%play_again%"=="y" goto game
+
